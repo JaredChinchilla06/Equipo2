@@ -1,6 +1,7 @@
 /*programa que convierta dólares a euros
 usar bucle do-while para realizar
 conversiones repetidamente*/
+/*NABerganzaEspinoza*/
 #include <iostream>
 using namespace std;
 int main()
